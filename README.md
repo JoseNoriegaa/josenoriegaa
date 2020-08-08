@@ -1,8 +1,8 @@
 ### Hi there, I'm Jose Noriega 👋
 
 ## I'm a Software Developer from Mexico.
-- 🔭 I’m currently working as backend developer.
-- 🌱 I’m currently learning everything.
+- 🔭 I’m currently working as a backend developer.
+- 🌱 I'm currently learning everything as much as possible.
 - 👯 I’m looking to collaborate on opensource projects.
 - ⚡ Fun fact: I like to play guitar and skate.
 
