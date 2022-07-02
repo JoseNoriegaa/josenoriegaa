@@ -1,9 +1,9 @@
 ### Hi there, I'm Jose Noriega 👋
 
-## I'm a Software Developer from Mexico.
-- 🔭 I’m currently working as a backend developer.
-- 🌱 I'm currently learning everything as much as possible.
-- 👯 I’m looking to collaborate on opensource projects.
+Im a curiosity-driven software engineer specialized in technologies based on Javascript and Python. I have more than 3 years of experience in mobile development using React Native, Backend development using ExpressJS, Django and Django REST Framework, Frontend development using Vue2 and React and also I have collaborated in database design projects with MySQL, PostgreSQL and MongoDB.
+
+- 🔭 I’m currently working as regular software developer for Luxoft Mexico.
+- 🌱 I'm currently learning about micro-frontends and web technologies.
 - ⚡ Fun fact: I like to play guitar and skate.
 
 ## Connect with me:
